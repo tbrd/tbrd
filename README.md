@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbrd. Thomas Hamshere-Clarke. 
 - 👀 I’m a front-end developer, leaning toward full-stack.
 - 🌱 I’m currently learning NextJS 19. 
-- 💞️ I’m looking to collaborate on TypeScript projects, anything using Apollo, and any frameworks. Really interested in getting more stuck-in to the github community. 
+- 💞️ I’m looking to collaborate on TypeScript projects.
 - 📫 How to reach me: try a Twitter DM? https://twitter.com/tbrd
 
 <!---
